@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   var ENV = {
     modulePrefix: 'ember-rails-api',
+    podModulePrefix: 'ember-rails-api/pods',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',

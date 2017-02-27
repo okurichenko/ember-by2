@@ -1,5 +1,6 @@
 {
   "name": "ember-rails-api",
   "dependencies": {
+    "bulma": "^0.3.2"
   }
 }
